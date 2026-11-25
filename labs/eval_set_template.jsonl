@@ -1,0 +1,3 @@
+{"id":"q_0001","question":"错误码 E4021 是什么意思","ground_truth":"上传的单文件超过大小限制，请使用分片上传接口。","relevant_chunk_ids":["d01"],"category":"编号类","answerable":true,"filter":{"version":"v3"}}
+{"id":"q_0002","question":"分享链接的有效期能改吗","ground_truth":"默认 7 天，企业版管理员可延长至 90 天。","relevant_chunk_ids":["d03"],"category":"单跳","answerable":true,"filter":{"version":"v3"}}
+{"id":"q_0003","question":"云帆网盘支持把文件存到火星吗","ground_truth":"","relevant_chunk_ids":[],"category":"无答案","answerable":false,"filter":{"version":"v3"}}

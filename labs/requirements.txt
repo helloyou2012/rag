@@ -1,0 +1,2 @@
+numpy
+anthropic  # 仅 lab02 需要
